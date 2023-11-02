@@ -1,4 +1,6 @@
-- 🌱**LINE Front-end Framework**でなんか作りたい。
+<h2>高専の情報系の学科で三年生やってます</h2>
+
+- 🌱 LIFFでなんか作りたい
 
 - 📝 https://qiita.com/f_yusei
 
