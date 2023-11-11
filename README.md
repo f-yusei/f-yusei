@@ -1,6 +1,6 @@
 <h2>高専の情報系の学科で三年生やってます</h2>
 
-- 🌱 LIFFでなんか作りたい
+- 🌱 NGINX触ってみたい
 
 - 📝 https://qiita.com/f_yusei
 
