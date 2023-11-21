@@ -7,7 +7,11 @@
 - 📫 連絡先 **fkys2932@gmail.com**
 
 - 📄 自分のいいところめちゃくちゃ書いてます→ https://palm-november-a0c.notion.site/PR-c136f711621e4a7ab1ded18bb84568cd?pvs=
-  
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=f-yusei&show_icons=true&locale=ja" alt ="f-yusei" /></p>
-<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f-yusei" alt="f -yusei" /></a> </p>
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f-yusei&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=f-yusei&theme=onedark&show_icons=ture" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=f-yusei&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
