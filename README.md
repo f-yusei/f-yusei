@@ -2,7 +2,7 @@
 
 - 🌱 NGINX触ってみたい
 
-- 📝 https://qiita.com/f_yusei
+- 📝 https://zenn.dev/furegura
 
 - 📫 連絡先 **fkys2932@gmail.com**
 
