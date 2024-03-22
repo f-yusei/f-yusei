@@ -1,6 +1,6 @@
 <h2>高専の情報系の学科で三年生やってます</h2>
 
-- 🌱 NGINX触ってみたい
+- 🌱 Go勉強してます！
 
 - 📝 https://zenn.dev/furegura
 
