@@ -1,7 +1,3 @@
-<h2>高専の情報系の学科で5年生やってます</h2>
-
-- 🌱 Go勉強してます！
-
 - 📝 https://zenn.dev/furegura
 
 - 📫 連絡先 **fkys2932@gmail.com**
